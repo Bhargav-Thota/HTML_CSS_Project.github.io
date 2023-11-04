@@ -1,0 +1,89 @@
+/* ######### Header ######### */
+header{
+    border: 2px solid brown;
+    border-radius: 15px;
+    height: 45px;
+    background-color: aqua;
+}
+.right{
+    float: right;
+    margin-top: 10px;
+    padding-left: 55px;
+    padding-right: 100px;
+}
+.left{
+    float: left;
+    margin-top: 10px;
+    padding-right: 55px;
+    padding-left: 100px;
+}
+img{
+    mix-blend-mode: multiply;
+}
+
+/* ########## Nav ########## */
+nav{
+    border: 2px solid brown;
+    border-radius: 15px;
+    height: 55px;
+    background-color: aqua;
+    text-decoration: none;
+}
+#tap{
+    margin-top: 10px;
+    margin-left: 15px;
+    padding-right: 40px;
+    float: left;
+}
+.navi{
+    text-decoration: none;
+    padding-left: 75px;
+    padding-right: 75px;
+    margin-top: 25px;
+    vertical-align: middle;
+    float: left;
+    color: green;
+}
+#button{
+    border: 2px solid brown;
+    border-radius: 15px;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    float:right;
+    margin: 20px 30px;
+    color: green;
+}
+#button:hover{
+    background-color: rgb(255, 0, 111);
+}
+
+/* ########## Footer ########## */
+section{
+    border: 2px solid brown;
+    border-radius: 15px;
+    background-color: aqua;
+    text-align: center; 
+}
+div{
+    border: 2px solid rgb(112, 165, 42);
+    border-radius: 15px;
+    background-color: white;
+    text-align: center; 
+    width: 300px;
+    padding: 20px;
+    margin-left:  435px;
+    margin-bottom: 20px;
+}
+
+/* ########## Footer ########## */
+footer{
+    border: 2px solid brown;
+    border-radius: 15px;
+    background-color: aqua;
+    text-align: center;
+}
+#map{
+    margin-top: 10px;
+    mix-blend-mode: multiply;
+}
